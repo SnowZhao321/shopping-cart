@@ -12,6 +12,7 @@ conda activate shopping-env
 
 ##Usage
 
+Run the app:
 
 ```sh
 python shopping_cart.py
